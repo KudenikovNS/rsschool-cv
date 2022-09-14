@@ -6,12 +6,10 @@
 
 [<img align="left" alt="NikitaKudenikov | telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
 [<img align="left" alt="NikitaKudenikov | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram]
-[<img align="left" alt="NikitaKudenikov | VK" width="22px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
 
 Discord - Nikita Kudenikov(@KudenikovNS)
 
 [instagram]: https://www.instagram.com/kudenikovns
-[vk]: https://vk.com/id10591245
 [telegram]: https://t.me/kudnik
 
 ## About Me
