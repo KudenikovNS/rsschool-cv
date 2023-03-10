@@ -48,6 +48,4 @@ Slovenian - A2.
 [vk]: https://vk.com/id10591245
 [telegram]: https://t.me/kudnik
 
-https://www.codewars.com/users/rsschool_5e3f53992398baca/badges/large
-
 ![codewars](https://www.codewars.com/users/rsschool_5e3f53992398baca/badges/large)
