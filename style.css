@@ -1,0 +1,8 @@
+.title {
+  color: violet;
+}
+
+.subtitle {
+  color: blue;
+  text-transform: lowercase;
+}
