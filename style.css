@@ -4,4 +4,5 @@
 
 .subtitle {
   color: blue;
+  text-transform: lowercase;
 }
